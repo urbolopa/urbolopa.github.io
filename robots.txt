@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urbolopa.github.io/sitemap.html.gz
+Sitemap: https://urbolopa.github.io/app/sitemap.html.gz
+Sitemap: https://urbolopa.github.io/assets/sitemap.html.gz
+Sitemap: https://urbolopa.github.io/css/sitemap.html.gz
+Sitemap: https://urbolopa.github.io/includes/sitemap.html.gz
+Sitemap: https://urbolopa.github.io/item/sitemap.html.gz
+Sitemap: https://urbolopa.github.io/src/sitemap.html.gz
